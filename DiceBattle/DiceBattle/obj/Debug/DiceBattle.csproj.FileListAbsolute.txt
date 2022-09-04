@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\bin\Debug\DiceBattle.exe.config
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\bin\Debug\DiceBattle.exe
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\bin\Debug\DiceBattle.pdb
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\obj\Debug\DiceBattle.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\obj\Debug\DiceBattle.Form1.resources
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\obj\Debug\DiceBattle.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\obj\Debug\DiceBattle.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\obj\Debug\DiceBattle.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\obj\Debug\DiceBattle.exe
+C:\Users\Gebruiker\source\repos\DiceBattle\DiceBattle\obj\Debug\DiceBattle.pdb
